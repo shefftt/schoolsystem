@@ -1,0 +1,8 @@
+<record id="action_patient" model="ir.actions.act_window.view">
+	<field name="sequence" eval="1"/>
+	<field name="name">patient</field>
+	<field name="type">ir.actions.act_window</field>
+	<field name="res_mode">hospital.patient</field>
+	<field name="view_type">form</field>
+	<field name="view_mode">tree,form</field>
+</record>

@@ -1,0 +1,7 @@
+[17-Dec-2019 14:44:20 America/New_York] PHP Fatal error:  Call to a member function find() on null in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Accounts.php on line 18
+[17-Dec-2019 14:46:26 America/New_York] PHP Fatal error:  Call to a member function find() on null in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Accounts.php on line 18
+[17-Dec-2019 15:02:51 America/New_York] PHP Fatal error:  Call to a member function all() on null in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Purchases.php on line 31
+[17-Dec-2019 15:03:00 America/New_York] PHP Fatal error:  Call to a member function all() on null in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Purchases.php on line 31
+[21-Dec-2019 03:34:56 America/New_York] PHP Fatal error:  Call to a member function all() on null in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Purchases.php on line 31
+[21-Dec-2019 03:36:17 America/New_York] PHP Fatal error:  Call to a member function all() on null in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Purchases.php on line 31
+[21-Dec-2019 04:39:25 America/New_York] PHP Fatal error:  Call to undefined function get() in /home/qeliqheg/schoolsystem.3elim.com/application/controllers/Purchases.php on line 32
